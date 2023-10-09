@@ -13,5 +13,5 @@ IT Infrastructure and Cybersecurity practicioner
      * Azure AZ-500 (Azure Security) 
      * Cisco CCNP R&S (Routing and Switching)
      * Vmware VCP-DCV (Datacenter Virtualization)
-- 📖 Studying towards eWPT (eLearnsecurity Web Application Penetration Tester)
+- 📖 Studying towards CRTE (Certified Red Team Professional by Altered Security)
 - 🛠️ Experimenting with Sysmon, ELK and Sigma
